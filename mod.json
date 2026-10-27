@@ -1,0 +1,11 @@
+{
+  "geode": "5.10.1",
+  "gd": {
+    "android": "2.2081"
+  },
+  "id": "shalomp.autodecorator",
+  "name": "AutoDecorator",
+  "version": "0.2.0",
+  "developer": "shalomp",
+  "description": "Automatically decorates Geometry Dash level layouts using real, editable objects."
+}
